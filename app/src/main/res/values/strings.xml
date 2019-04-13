@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Öğrenci Kayıt Sistemi</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="profile">Profil</string>
+    <string name="friends">Arkadaşlar</string>
+    <string name="add_subject">Ders Ekle</string>
+    <string name="enter_subject">Ders giriniz.</string>
+    <string name="enter_friendsname">Arkadaş adı.</string>
+    <string name="enter_friendsusername">Arkadaş kullanıcı adı.</string>
+    <string name="add_friend">Arkadaş Ekle</string>
+</resources>
